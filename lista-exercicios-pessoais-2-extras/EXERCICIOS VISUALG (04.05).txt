@@ -1,0 +1,133 @@
+
+Comparador completo (reforço de base)
+
+
+Leia dois números e mostre:
+
+qual é maior
+
+ou se são iguais
+
+
+
+Mas com detalhe:
+
+mostre uma frase completa (não só V/F)
+
+
+
+2. Maior de três números
+
+
+Leia 3 valores e mostre o maior.
+
+
+
+Dica: não usa vetor ainda, faz na lógica pura com se.
+
+
+
+3. Par ou ímpar + positivo ou negativo
+
+
+Leia um número e diga:
+
+se é par ou ímpar
+
+se é positivo, negativo ou zero
+
+
+Aqui você começa a combinar condições.
+
+
+
+4. Sistema de login (lógica com E) 
+
+
+Crie um algoritmo que:
+
+leia usuário e senha
+ 
+usuário correto: "admin" 
+
+senha correta: 1234 
+
+
+Só entra se:
+
+usuário correto E senha correta
+
+
+Senão, mostra erro. 
+
+
+
+5. Desconto em compra (OU + E)
+
+
+Leia valor da compra e tipo de cliente:
+
+cliente VIP ? 20% desconto
+
+compra acima de 100 ? 10% desconto
+s
+e for VIP E compra > 100 ? 25%
+
+
+Mostra valor final.
+
+
+
+6. Ano bissexto (nível médio)
+
+
+Leia um ano e diga se é bissexto.
+
+
+
+Regra:
+
+divisível por 4
+
+mas não por 100
+
+
+exceto se for divisível por 400
+
+
+
+
+Esse aqui vai te forçar a usar lógica de verdade.
+
+
+
+7. Versão melhorada do triângulo (reforço)
+
+
+Refaz o que você já fez, mas agora:
+
+
+
+
+não usa variáveis lógicas (forma, isosceles etc.)
+
+
+faz tudo direto com se
+mostra mensagens claras
+
+
+
+
+Como usar isso (parte mais importante)
+
+
+Não faz tudo de uma vez.
+
+
+
+Faz assim:
+
+ 2 ou 3 exercícios por dia
+
+escreve ? testa ? erra ? corrige
+ no dia seguinte, revisa 1 antigo antes de fazer novo

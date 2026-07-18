@@ -1,0 +1,78 @@
+
+RESPOSTAS DO EXERCÍCIO
+1. 
+a - V
+b - F
+c - V
+d - F
+e - V
+f - F
+
+1.2.
+
+Algoritmo "vouf"
+// Prática do conceito de OPERADORES RELACIONAIS
+Var
+  n1, n2: inteiro
+  resultado: logico
+Inicio
+  Escreva ("Digite um número: ")
+  Leia (n1)
+  Escreva ("Digite um número: ")
+  Leia (n1)
+  resultado <- (n1>n2)
+  Escreva (resultado)
+Fimalgoritmo
+
+
+
+2.
+
+a) B
+b) A
+c) B
+d) A
+e) B
+f) A
+
+2.1.
+Eu quero que João e Maria estudem, portanto, se Maria não estudou eu não vou estudar.
+
+3.
+a) F
+não tem guarda-chuva, então é F. Não vai sair.
+
+b) V
+Ele vai comprar.
+
+c) Não vai estudar pois está cansado.
+
+
+4.
+a) 
+
+V OU F = V
+V E F = F
+F
+ 
+b)
+
+V E F = F
+F E F = F
+F
+
+c)
+
+NAO V OU V
+F OU V
+V
+
+d) 
+
+NAO (V OU V)
+NAO V
+F
+
+
+5.
+
